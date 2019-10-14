@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$harudot","classId":1,"equips":[1,1,0,0,0],"faceIndex":3,"faceName":"harukao","traits":[],"initialLevel":1,"maxLevel":99,"name":"七日ハル","nickname":"","note":"<PE拡張:\n七日ハル\n\n高校二年生の女の子。\n両親を早くに亡くしており\n大好きな兄と二人で仲良く暮らしていた。\n感情が希薄で、学校で友達が一人も居ない。\nストーカーに悩まされ、普通に迷惑なので\nユウ探偵事務所へやってきた。\n>\n<stand_picture:harutatie>\n","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$yuuaruki","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuukao","traits":[],"initialLevel":1,"maxLevel":99,"name":"赤海ユウ","nickname":"","note":"<PE拡張:\n赤海ユウ\n\n元警察官25歳。\n現在は探偵事務所をやっている。\n優秀だが、報酬次第で態度が露骨に変わる。\nお金の無さそうなハルがやってきて困ったが、\n実際大金を持っていたので協力する。\n自信家で大抵の話を聞いていない。\n幽霊や超常現象といったものを信じない。\n>\n<stand_picture:yuutatie>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"$harudot","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":" ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$yuuaruki","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yuukao","traits":[],"initialLevel":1,"maxLevel":99,"name":"襍､豬ｷ?????","nickname":"","note":"<PE拡張:\n襍､豬ｷ?????\n\n元警察官25歳。\n現在は探偵事務所をやっている。\n優秀だが、報酬次第で態度が露骨に変わる。\nお金の無さそうなハルがやってきて困ったが、\n実際大金を持っていたので協力する。\n自信家で大抵の話を聞いていない。\n幽霊や超常現象といったものを信じない。\n>\n<stand_picture:yuutatie>","profile":""}
+]
